@@ -5,4 +5,5 @@ sdffffffffffffffffffffffffffffff1111
 local modify
 dev branch modify
 in master modify
-in dev branch content111
+in dev branch content11
+disable fast-forward test
