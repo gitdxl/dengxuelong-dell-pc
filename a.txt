@@ -6,4 +6,4 @@ local modify
 dev branch modify
 in master modify
 in dev branch content11
-disable fast-forward test
+disable fast-forward test12
